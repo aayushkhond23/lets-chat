@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308546292333",
+    "project_id": "chatsystem-d2691",
+    "storage_bucket": "chatsystem-d2691.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308546292333:android:15ab9e7ec6bad629bfcd64",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308546292333-ehlf8nqoau2n050k6i74b2qo244dnm2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxATX3n0B5_zdGwPB5o07TXbBBtOOHey4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308546292333-ehlf8nqoau2n050k6i74b2qo244dnm2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
